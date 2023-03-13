@@ -1,0 +1,55 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Radxa
+Label: Freight
+Suite: jammy-test
+Codename: jammy-test
+NotAutomatic: no
+ButAutomaticUpgrades: no
+Components: main 
+Architectures: all arm64
+Date: Mon, 13 Mar 2023 12:32:48 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
+MD5Sum:
+ 5a110a395ffe152461da230a95ef00ec 146352 main/binary-all/Packages
+ 886b6c1ef9f87dbf3ca44aa109f9f31e 204 main/binary-all/Release
+ 88767438de708e9e9b9f2d07ce9e41ae 38409 main/binary-all/Packages.gz
+ 70488ca6da9cac717e5e914414d13346 182079 main/binary-arm64/Packages
+ 93a10c0cb01ef92c0a54257c03410104 206 main/binary-arm64/Release
+ b6c8063a800a3099f8a86d30139dc951 48888 main/binary-arm64/Packages.gz
+SHA1:
+ 88d345c3f484da865278e373235219d169fb59e5 146352 main/binary-all/Packages
+ 19ea7e97ecb39f99a944a51fb50f6c9541bd9a11 204 main/binary-all/Release
+ ca8b443ef9d1c8dbe978d6adc0b23286609f41e4 38409 main/binary-all/Packages.gz
+ 4cbd41dffb525210ce140bfb6ab50b47c45a2417 182079 main/binary-arm64/Packages
+ 1fa00b9382d3f7168665c466a6ea063003cf8232 206 main/binary-arm64/Release
+ 9e299f36e013ce982bdebf2559509080ea118bd3 48888 main/binary-arm64/Packages.gz
+SHA256:
+ c669e2655eed72c7b5552527f460f8bf3037de6b85f12eff42c5f01bb3038a95 146352 main/binary-all/Packages
+ f8a71d1ddb9710ce76ae24301207b9bdf4afe70958386d8c7113af98ae26c118 204 main/binary-all/Release
+ 1b246c160cd7ac972c6131250c131bdd4e13e3e69e9f2948c5360d00ceab015f 38409 main/binary-all/Packages.gz
+ cc07c1f795040dd0e61faea093a8f8104a9e872ab04357b1ec01962723c23d18 182079 main/binary-arm64/Packages
+ 0241f92615d316f8b87e1ed333c4eb65dbaff97170edb4d7384aec28e7127024 206 main/binary-arm64/Release
+ 0e31aadadce13017b2c0a8a5810f3d6ef32ee29fef519767eeb7f65ed7ec7df9 48888 main/binary-arm64/Packages.gz
+SHA512:
+ 6587807a9f951e68d121d67f128dd1a40979354bc9f629cb4c62de4b07084a80d75c95109213c5bb2c50dc240fef60bc273de94c92835da3d7081873e19f7b7a 146352 main/binary-all/Packages
+ 5b96f8824f027400d29d227814efe7606a70932d67e738d24f967ca87acca72765c5f040ef1b1ac84dc271475494692d7834c731b555b48264f9d7cbdc8e354c 204 main/binary-all/Release
+ c2763f1c38b7d093b20c903eacbcd905d6ec7703deb963f6b83a91bda1f47acc8ce48a25daaf0354dead2baffe5bc60b31b1546f0898b1c1b35d70d83cc3d0dd 38409 main/binary-all/Packages.gz
+ 8bb59b1302d72b5511a57d604693f3bd928bedf4f159318262599f4ecabf6a237dbae7ee976848df906c2be318d06129b4ec302e680287c5e87c038a6f40ca01 182079 main/binary-arm64/Packages
+ 4cf11b8e7741110bce4b1f0eae64728c51b3aed1f39cd3a80f79241b9a16f0609cfaface52d0710f7d623b6a7028c2406af4702cd8097ec8ef68171f05b1d0e0 206 main/binary-arm64/Release
+ 94aacf1b3957f387270b23807faf0389243942f37946a2b1e3bf2a0cd2dcee43ba08d760d700a130483cf7ba3451f4d78f1dc527df95747b369fb7436be7d7bc 48888 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQHCBAEBCgAsFiEEcq8rX3skqP/k9BrE5XIkmjPrl0MFAmQPF/8OHGRldkByYWR4
+YS5jb20ACgkQ5XIkmjPrl0OIywv/eMDWzgfLOFnlskovowB8MzOrhWu+v/qYMsrR
+brskog9Dppz9ZPVYkiVug3G13E4TZXHDRkqH6WqlcT093jBTvyUWNjSmIXkuNj1P
+XTeH5afNvB9PwC49WtmnHLQ8EnJhhwHDYmtSs8bKlh3anvPtd5uw1tf3wBLQf3Dp
+8J+/xbwZEm2SaTQt8QyDQYUSLJDwMaY0pAl8jWIBaMHakIuRvbgNW8hNDwSy5/Ld
+JjnnqWY7MV75wJrhM6d9sASS6VKc8WeF75WYnyvhLVGBWoAqtVx15OGM01UnZwvH
+zHy6D2LSghFpKI435hNGlGahIDbZPMzXJRckEbLIriRVUfaRMR53yvODXXlAy+Fe
+ENSWrzP72mVEQ5SPzjkT+cyC7YkAKK8Nf0DHGIAHd/X9oceLLwplG8/Hs47xKpgK
+Ct3vj53w6n4XlDlDv9P5bF2ChRaJU+fz6Y6l4CwT7BdHaziv7VOHlLaCwad9IFku
+FBea0Lt/1U2Z/WJdYrmORobw0E98
+=9CNr
+-----END PGP SIGNATURE-----
