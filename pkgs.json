@@ -44,5 +44,5 @@
   "rtl8852bu": "1.19.3-45-g7583a804a.20230505-1",
   "linux-rk2312": "6.1.43-1",
   "rockchip-prebuilt": "0.4.0-linux-6.1-stan-rkr1-5",
-  "rockchip-udev": "0.3.2"
+  "rockchip-udev": "0.3.3"
 }
