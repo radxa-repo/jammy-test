@@ -46,5 +46,6 @@
   "rockchip-prebuilt": "0.4.0-linux-6.1-stan-rkr1-5",
   "rockchip-udev": "0.3.3",
   "aic8800-firmware": "0.1.0",
-  "librtui": "0.1.0"
+  "librtui": "0.1.0",
+  "radxa-overlays": "0.1.0"
 }

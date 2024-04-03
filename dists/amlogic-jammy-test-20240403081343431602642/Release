@@ -1,0 +1,38 @@
+Origin: Radxa
+Label: Freight
+Suite: amlogic-jammy-test
+Codename: amlogic-jammy-test
+NotAutomatic: no
+ButAutomaticUpgrades: no
+Components: main 
+Architectures: all arm64
+Date: Wed, 03 Apr 2024 08:13:43 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
+MD5Sum:
+ 9ee2d42607c32881cba91760f816a670 212 main/binary-all/Release
+ f61512fb9eb4f9972cc59a513e3c0da8 490 main/binary-all/Packages.gz
+ 3bf699cc0d78eb3680163d81a27f216e 731 main/binary-all/Packages
+ c346925ca6d95958321fe1a68c333fec 214 main/binary-arm64/Release
+ f61512fb9eb4f9972cc59a513e3c0da8 490 main/binary-arm64/Packages.gz
+ 3bf699cc0d78eb3680163d81a27f216e 731 main/binary-arm64/Packages
+SHA1:
+ 9f08272535a829a6a64a525fcb22b662b237d486 212 main/binary-all/Release
+ efc73fe3038e367aee219d40e6cfb05616382ae7 490 main/binary-all/Packages.gz
+ bf85ef442670c1886c05f189828bba99019e5baa 731 main/binary-all/Packages
+ 87e0a469713e7a6a60c0780fb18fc255566d3704 214 main/binary-arm64/Release
+ efc73fe3038e367aee219d40e6cfb05616382ae7 490 main/binary-arm64/Packages.gz
+ bf85ef442670c1886c05f189828bba99019e5baa 731 main/binary-arm64/Packages
+SHA256:
+ 6551c362733bbf9bc8d66427af2771a424d69b74214e448fcdbbaf1c52b3e389 212 main/binary-all/Release
+ 31346e504f5ad2fd44bc9d23e16c66d53866545776f9d37eed95c14c2278fde4 490 main/binary-all/Packages.gz
+ c64b4535e23fd6bc37579f147c0825ce7549bba122f32b2ff16ef77ca4e3193e 731 main/binary-all/Packages
+ d33e00dcb43170acf7d010dde90b211ce287850e19568296b5c03c852801a4d1 214 main/binary-arm64/Release
+ 31346e504f5ad2fd44bc9d23e16c66d53866545776f9d37eed95c14c2278fde4 490 main/binary-arm64/Packages.gz
+ c64b4535e23fd6bc37579f147c0825ce7549bba122f32b2ff16ef77ca4e3193e 731 main/binary-arm64/Packages
+SHA512:
+ 3f723315cbdeb493c93f1949f81ac1c19f430e6cf05ffdf9d05b7cb47700f669127dac919e0b28b612298d71d39a27085861def66a60e45f73d9020f66228452 212 main/binary-all/Release
+ ed686dc677c54687719f8ca75fa5ca905b7933b875b130e01ccb5067e297997bf72bf3a865a86ac8ca9fd8adf6a9d331249b1c22e500e92642265c9cdb366593 490 main/binary-all/Packages.gz
+ fd9d4f12f31610b52845d700e709caf2b5d46bfd0362578e7c7bf5b92e58c42c6de8234258f95b34a56f30b4f189bf52d87dacb9acbc3bf8240d36e7400b70a4 731 main/binary-all/Packages
+ cdc87ec312f2ba10525f00529648bc140da85de50fb6e01c92095cb09f16099b66beee3cc4b38f3fd2deab3a7d99c858d780f6417c9875f53f32442cf7e06398 214 main/binary-arm64/Release
+ ed686dc677c54687719f8ca75fa5ca905b7933b875b130e01ccb5067e297997bf72bf3a865a86ac8ca9fd8adf6a9d331249b1c22e500e92642265c9cdb366593 490 main/binary-arm64/Packages.gz
+ fd9d4f12f31610b52845d700e709caf2b5d46bfd0362578e7c7bf5b92e58c42c6de8234258f95b34a56f30b4f189bf52d87dacb9acbc3bf8240d36e7400b70a4 731 main/binary-arm64/Packages
