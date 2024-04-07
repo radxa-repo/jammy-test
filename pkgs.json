@@ -47,5 +47,5 @@
   "rockchip-udev": "0.3.3",
   "aic8800-firmware": "0.1.0",
   "librtui": "0.1.0",
-  "radxa-overlays": "0.1.1"
+  "radxa-overlays": "0.1.2"
 }
