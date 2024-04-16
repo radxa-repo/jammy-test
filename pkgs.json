@@ -27,7 +27,7 @@
   "mraa": "2.2.0-6",
   "radxa-udev": "0.1.1",
   "linux-rockchip": "5.10.110-33",
-  "u-boot-rknext": "2017.09-23",
+  "u-boot-rknext": "2017.09-24",
   "vendor-profiles": "0.3.7",
   "radxa-system-config": "0.6.1",
   "rknn2": "1.6.0-2",
