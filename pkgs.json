@@ -28,7 +28,7 @@
   "radxa-udev": "0.1.1",
   "linux-rockchip": "5.10.110-33",
   "u-boot-rknext": "2017.09-24",
-  "vendor-profiles": "0.3.7",
+  "vendor-profiles": "0.4.2",
   "radxa-system-config": "0.6.1",
   "rknn2": "1.6.0-2",
   "bluetuith": "0.2.0-1",
