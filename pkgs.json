@@ -18,7 +18,7 @@
   "radxa-profiles": "0.4.13",
   "radxa-sddm-theme": "0.1.1",
   "u-boot-latest": "2023.10-9",
-  "xfce4-screensaver": "4.18.2-1",
+  "xfce4-screensaver": "4.16.0-1",
   "rtkbt-dkms": "20220330-1",
   "8852be-dkms": "1.15.10.0.5.0-4",
   "rtl8723ds": "5.1.1.5\u002Bgit20231227.52e593e-3",
@@ -47,5 +47,5 @@
   "rockchip-udev": "0.3.3",
   "aic8800-firmware": "0.1.0",
   "librtui": "0.1.0",
-  "radxa-overlays": "0.1.2"
+  "radxa-overlays": "0.1.3"
 }
