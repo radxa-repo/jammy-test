@@ -7,7 +7,7 @@
   "radxa-firmware": "0.2.21",
   "radxa-bootutils": "0.2.4",
   "u-boot-menu": "4.2.2",
-  "rockchip-iqfiles": "0.1.13",
+  "rockchip-iqfiles": "0.2.0",
   "rockchip-chromium-x11-utils": "0.2.1",
   "r8125-dkms": "9.011.00-4-1",
   "radxa-archive-keyring": "0.1.3",
