@@ -43,7 +43,7 @@
   "rknn_model_zoo": "1.6.0-1",
   "rtl8852bu": "1.19.3-45-g7583a804a.20230505-1",
   "linux-rk2312": "6.1.43-4",
-  "rockchip-prebuilt": "0.4.0-linux-6.1-stan-rkr1-5",
+  "rockchip-prebuilt": "0.4.0-linux-6.1-stan-rkr1-6",
   "rockchip-udev": "0.3.3",
   "aic8800-firmware": "0.1.0",
   "librtui": "0.1.0",
