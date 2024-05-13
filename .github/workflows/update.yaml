@@ -3,8 +3,6 @@ concurrency:
   group: "${{ github.workflow }}-${{ github.ref }}"
 jobs:
   update:
-    container:
-      image: "ubuntu:24.04"
     permissions:
       contents: "write"
       id-token: "write"
@@ -24,6 +22,8 @@ jobs:
       id: "build"
       name: "Build apt archive"
       run: |
+        sudo tee /etc/apt/sources.list.d/10-aptly.list <<< "deb http://repo.aptly.info/ squeeze main"
+        sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys EE727D4449467F0E
         sudo apt-get update
         sudo apt-get install -y aptly pandoc
         git config --global user.name 'github-actions[bot]'
